@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Ninja Forms - File Uploads
+Plugin Name: Ninja Forms - File Uploads - Free Trial
 Plugin URI: http://ninjaforms.com
 Description: File Uploads add-on for Ninja Forms.
 Version: 3.0.16
